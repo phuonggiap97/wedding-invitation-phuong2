@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Invitation Landing Page",
+  "description": "Trang thiệp cưới trực tuyến sang trọng với đếm ngược, lịch trình hôn lễ, album ảnh kỷ niệm, gửi lời chúc mừng, xác nhận tham dự (RSVP) và mừng cưới tiện lợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
